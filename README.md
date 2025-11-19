@@ -8,8 +8,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Co
 
 **Frontend:** React, JavaScript, TypeScript, HTML5, CSS3, Bootstrap  
 **Backend:** Node.js, Express, Python, Flask  
-**Banco de Dados:** MongoDB, MySQL, PostgreSQL  
-**Ferramentas:** Git, Docker, AWS, Vercel, Heroku  
+**Banco de Dados:** MongoDB, MySQL, PostgreSQL   
 
 ## 📊 Estatísticas do GitHub
 
