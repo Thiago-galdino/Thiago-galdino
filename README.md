@@ -16,8 +16,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Co
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagogaldino.dev@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/thiago-galdino-sousa/)
+[![Email](blindad362@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thiagogaldino.dev)
 
 ## 📌 Projetos em Destaque
