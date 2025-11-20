@@ -22,6 +22,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Co
 
 ## 📌 Projetos em Destaque
 
-- [**Sistema de E-commerce**](https://github.com/Thiago-galdino/ecommerce-fullstack) - Plataforma completa com React e Node.js
-- [**API de Gerenciamento de Tarefas**](https://github.com/Thiago-galdino/task-manager-api) - API REST com autenticação JWT
-- [**Dashboard Analytics**](https://github.com/Thiago-galdino/analytics-dashboard) - Visualização de dados em tempo real
+- [**Projeto Login**](https://thiago-galdino.github.io/projeto-login/) -  HTML E CSS
+- [**Opa Flix -  Catalogo de Filmes**](https://thiago-galdino.github.io/Opa-Flix/) - HTML CSS E JavaScript
+- [**BomViver+**](https://thiago-galdino.github.io/BomViver-/) - Marcaçaõ e agendamento de consultas
