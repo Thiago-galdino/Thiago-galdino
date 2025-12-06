@@ -47,7 +47,7 @@
 - 🌐 Portfólio: [https://thiago-galdino.github.io/portfolio-thiago/](https://thiago-galdino.github.io/portfolio-thiago/)  
 - 💼 GitHub: [github.com/Thiago-galdino](https://github.com/Thiago-galdino)  
 - 📍 Local: Fortaleza, Ceará – Brasil  
-- 📧 E-mail: seu-email@exemplo.com *(adicione se quiser)*
+- 📧 E-mail: blindad362@gmail.com
 
 ---
 
